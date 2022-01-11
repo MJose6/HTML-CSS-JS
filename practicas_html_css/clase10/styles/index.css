@@ -1,0 +1,34 @@
+.titulo{
+    color: gray;
+    font-family: 'Nunito', sans-serif;
+    width: 30%;
+    height: 40px;
+    margin: 20px;
+}
+.card{
+   width: 30%;
+   height: 200px;
+   padding: 8px 16px;
+   border-radius: 8px 16px;
+   margin: 20px;
+   box-sizing: border-box;
+   font-family: "Nunito", sans-serif;
+   color: black;
+   font-weight: bold;
+   background-size: cover;
+}   
+#card1{
+    background-image: url("https://img.unocero.com/2019/10/DBZ2.png");
+}
+#card2{
+    background-image: url("https://sm.ign.com/t/ign_es/screenshot/default/vegeta-son-goku-trunks-son-gohan-piccolo-dragon-ba_xnse.1280.jpg");
+}
+#card3{
+    background-image: url("https://media.airedesantafe.com.ar/adjuntos/268/imagenes/001/419/0001419627.jpg");
+}
+#card4{
+    background-image: url("https://lh3.googleusercontent.com/proxy/2HHLbAKTdGRbIrt9aQ7RVDH_Je1N0K8Hnd0fIjynSYj9HD5XbUnNqylgxjm1m-y409E0Oqk2Cd4dCkA8sqUmc_R3zb7JD03itivLU1bvJI1-iHs-R-f8XM1S");
+}
+#card5{
+    background-image: url("https://media.vandal.net/i/1200x630/2-2020/2020220175485_1.jpg");
+}

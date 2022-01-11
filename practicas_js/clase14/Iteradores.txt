@@ -1,0 +1,29 @@
+ForEach
+
+array.forEach(() => {
+	console.log(elemento);
+});
+
+
+Map = transforma el array, lo itera y decide que hacer con el elemento.
+
+const variable = array.map((elemento) => {
+	return elemento.atributo;
+});
+
+
+Filter = filtra un array
+
+const variable = [dato, dato1, dato2];
+const variable1 = dato;
+
+const variable2 = variable.filter((valor) => {
+	return valor <= variable1;
+});
+
+Reduce = reduce el array a una expresion
+
+const variable = array.reduce((elemento1, elemento2) => {
+	return 
+});
+

@@ -1,0 +1,13 @@
+console.log
+console.info
+console.warning
+console.error
+'variable'.lenght
+'variable'.toLowercase()
+'variable'.toUpperCase()
+'variable' + ' ' + 'variable2'
+'variable'.replace
+'variable.split(' ')
+parseFloat('variable')
+parseInt('variable')
+'variable'.toString()

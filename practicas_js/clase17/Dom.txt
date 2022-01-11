@@ -1,0 +1,30 @@
+Selectores
+
+document.getElementById("x");
+document.getElementsByClassName("x");
+document.querySelector("#x");
+document.querySelectorAll(".x");
+
+Eventos
+
+onclick
+onchange
+onmouseover
+onmouseout
+onkeydown
+
+Timers
+
+setTimeout(() => {
+	console.log("hola");
+}, 3000);
+
+seInterval(intervalo);
+
+Local Storage
+
+localStorage.setItem('login', true);     agregar valor
+const login = localStorage.getItem('login');     obtener un valor
+localStorge.removeItem('login');     eliminar un valor
+localStorage.clear();     eliminar todos los valores
+

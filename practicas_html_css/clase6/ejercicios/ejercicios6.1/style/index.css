@@ -1,0 +1,15 @@
+.title-wrapper{
+    background-color: bisque;
+    width: 400px;
+}
+.content-wrapper{
+    width: 400px;
+}
+.subtitle-wrapper{
+    background-color: darkgray;
+    width: 300px;
+    color: white;
+}
+.subrayado{
+    color: chocolate;
+}

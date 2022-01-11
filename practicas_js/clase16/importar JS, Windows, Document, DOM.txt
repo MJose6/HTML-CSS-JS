@@ -1,0 +1,29 @@
+Importar
+
+.Etiqueta en linea con html
+.Interno con etiqueta <script escribiendo el codigo>
+.Externo final del body etiqueta <script con ruta a JS>
+
+Window
+
+window.innerHeight
+window.innerWidth
+window.open()
+window.clase()
+window.onload = () => {};
+window.location = 'https://xxxxxx.xxx'
+window.location.pathname
+window.lacation.search
+window.location.host
+
+Document
+
+document.body
+document.readyState
+document.write()
+document.title
+
+DOM referencia virtual al html
+
+
+

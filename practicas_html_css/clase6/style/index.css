@@ -1,0 +1,28 @@
+.parrafo {
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 100px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    background-color: blue;
+}
+.caja {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+}
+.imagen{
+    background-image: url("https://www.rocketcode.com.ar/assets/logo/full_logo.svg");
+    width: 100px;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+}
+.planta{
+    background-image: url("../planta.png");
+    width: 100px;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+}

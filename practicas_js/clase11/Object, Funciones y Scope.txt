@@ -1,0 +1,30 @@
+Object = Diccionario en Phyton
+
+const object = {
+	key: "value",
+	key: value
+}
+
+const variable = object.key;
+console.log(nombre);
+
+const variable1 = "key";
+const variable2 = object[variable1];
+console.log(variable2);
+
+
+Funciones
+
+const funcion = (parametro1, parametro2) => {
+	return parametro1 + parametro2;
+}
+
+llamado
+
+const resultado = funcion(parametro1, parametro2);
+console.log(resultado);
+
+
+Scope
+
+la funcion puede utilizar variables antes declaradas, no asi del modo inverso

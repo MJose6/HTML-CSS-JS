@@ -1,0 +1,18 @@
+.formulario{
+    background-color: rgb(107, 158, 170);
+    width: 25%;
+    height: 40%;
+    font-weight: bold;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 20px;
+    margin-left: 35%;
+    line-height: 2;
+
+}
+.leyenda{
+    margin-left: 15%;
+}
+#icono{
+    width: 10%;
+    height: 10%;
+}

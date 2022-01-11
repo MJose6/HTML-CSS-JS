@@ -1,0 +1,26 @@
+switch () {
+case "x";
+	console.log()
+break;
+
+default;
+	console.log()
+}
+
+array [lista];
+cont meses = [datos]
+
+se puede anidar arrays
+
+array.concat(array2)
+array.join("-") || (", ")
+array.lenght
+array.push(dato)   agrega dato al final
+array.unshift(dato) agrega dato al principio
+array.shift(dato)  quita dato del principio
+array.pop(dato)   quita ultimo dato
+
+
+array.sort()  ordena string(por abecedario) number(menor a mayor)
+
+Math.floor(Math.random)     {floor redondea numero} math.random toma elemento aleatorio

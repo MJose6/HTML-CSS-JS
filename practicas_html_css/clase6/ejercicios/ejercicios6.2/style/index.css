@@ -1,0 +1,31 @@
+.logo{
+    background-image: url("C:\Users\USUARIO\Desktop\html y css\clase6\ejercicios\ejercicios6.2");
+    text-align: center;
+}
+.title{
+    background-color: lightslategrey;
+    width: 500px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.parrafo{
+    color: rgb(74, 74, 74);
+    width: 500px;
+}
+.subrayado{
+    color: rgb(0, 0, 0);
+    font-weight: 300;
+}
+.subtitulo{
+    background-color: lightslategrey;
+    width: 500px;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fondo{
+    background-color: rgb(245, 245, 245);
+    width: 500px;
+    line-height: 40px;
+}

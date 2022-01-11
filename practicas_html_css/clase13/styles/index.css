@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/625/513/non_2x/blue-space-stars-vector-background-night-sky.jpg);
+    font-family: 'Nunito', sans-serif;  
+}
+.barra{
+    height: 75px;
+    margin: 10px;
+    padding: 10px 10px;
+    border: white;
+    border-radius: 10px;
+    background-color: white;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    height: 50px;
+    margin-left: 20px;
+}
+.items{
+    margin-left: 20px;
+    font-weight: bold;
+}
+.titulo{
+    color: white;
+    width: 48%;
+    font-size: 30px;
+    margin-top: 150px;
+    margin-left: 20px;
+    align-items: center;
+}
+.cohete{
+    margin-left: 800px;
+    border-radius: 100px;
+    position: absolute;
+    bottom: 150px;
+}

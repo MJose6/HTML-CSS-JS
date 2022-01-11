@@ -1,0 +1,23 @@
+Casteo
+
+(123).toString();
+true.toString();
+Boolean(1);
+Number(false);
+parseFloat("3,14");
+parseInt("3,14");
+"5"+2;   = concatena
+"5"-2;
+
+operadores de comparacion
+
+valor1 < valor2;
+valor1 > valor2;
+valor1 <= valor2;
+valor1 >= valor2;
+valor1 == valor2;  igual
+valor1 != valor2;  distinto
+valor1 === valor2;   igual estricto
+valor1 !== valor2;    distinto estricto
+comparacion1 && comparacion2  operador and
+comparacion1 || comparacion2  operador or

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clase 14</title>
+    <link href="styles/index.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+</head>
+<body>
+    <fieldset class="formulario">
+        <legend class="leyenda">Formulario</legend>
+        <form>
+            <div class="leyenda">
+                <img src="nya.png" alt="imagen" id="icono">
+                <label for="lastname">Apellido:</label>
+            </div>
+            <div class="leyenda">
+                <input id="lastname" type="text" placeholder="Last Name">
+            </div>
+            <div class="leyenda">
+                <img src="nya.png" alt="imagen" id="icono">
+                <label for="name">Nombre:</label>
+            </div>
+            <div class="leyenda">
+                <input id="name" type="text" placeholder="Name">
+            </div>
+            <div class="leyenda">
+                <img src="dni.png" alt="imagen" id="icono">
+                <label for="doc">Tipo de Documento:</label>
+            </div>
+            <div class="leyenda">
+                <select>
+                    <option>D.N.I</option>
+                    <option>L.E</option>
+                    <option>L.C</option>
+                </select>
+                <input id="doc" type="text" placeholder="Number">
+            </div>
+            <div class="leyenda">
+                <img src="genero.png" alt="imagen" id="icono">
+                <label>Genero:</label>
+            </div>
+            <div class="leyenda">
+                <label for="masculino">Masculino</label>
+                <input id="masculino" type="radio" name="Genero">
+                <label for="femenino">Femenino</label>
+                <input id="femenino" type="radio" name="Genero">
+            </div>
+            <div class="leyenda">
+                <img src="edad.png" alt="imagen" id="icono">
+                <label for="edad">Edad:</label>
+            </div>
+            <div class="leyenda">
+                <input id="edad" type="number">
+            </div>
+            <div class="leyenda">
+                <img src="ocupacion.png" alt="imagen" id="icono">
+                <label for="ocupacion">Ocupacion:</label>
+            </div>
+            <div class="leyenda">
+                <input id="ocupacion" type="text" placeholder="Occupation">
+            </div>
+            <div class="leyenda">
+                <img src="ec.png" alt="imagen" id="icono">
+                <label>Estado Civil:</label>
+            </div>
+            <div class="leyenda">
+                <select>
+                    <option>Casada/o</option>
+                    <option>Soltera/o</option>
+                    <option>Divorciada/o</option>
+                    <option>Viuda/o</option>
+                </select>
+            </div>
+            <div class="leyenda">
+                <img src="bandera.png" alt="imagen" id="icono">
+                <label for="nacionalidad">Nacionalidad:</label>
+            </div>
+            <div class="leyenda">
+                <input id="nacionalidad" type="text" placeholder="Nationality">
+            </div>
+            <div class="leyenda">
+                <img src="gf.png" alt="imagen" id="icono">
+                <label for="gf">Grupo Familiar:</label>
+            </div>
+            <div class="leyenda">
+                <input id="gf" type="text" placeholder="Family">
+            </div>
+            <div class="leyenda">
+                <img src="descripcion.png" alt="imagen" id="icono">
+                <label for="mensaje">Descripcion:</label>
+            </div>
+            <div class="leyenda">
+                <textarea id="mensaje" minlength="0" maxlength="140"></textarea>
+            </div>
+            <div class="leyenda">
+                <button type="submit">Cargar Informacion</button>
+            </div>
+        </form>
+    </fieldset>
+</body>
+</html>
